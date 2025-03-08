@@ -13,6 +13,7 @@ return {
 				"css",
 				"html",
 				"python",
+                "bash",
 			},
 			highlight = { enable = true },
 			indent = { enable = true },
